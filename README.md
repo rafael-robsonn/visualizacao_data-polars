@@ -10,7 +10,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-[**▶ Abrir no Colab**](https://colab.research.google.com/github/USUARIO/REPO/blob/main/Aula-14-Visualizacao-de-Dados-Polars.ipynb) · [Ver os gráficos](#-galeria) · [Como rodar](#-como-rodar) · [Ver os gráficos](#-galeria) · [Como rodar](#-como-rodar)
+ [Ver os gráficos](#-galeria) · [Como rodar](#-como-rodar) 
 
 <sub>UniCEUB · Aula 14 · Visualização de Dados com Python</sub>
 
@@ -73,7 +73,7 @@ O dataset simula as vendas de uma rede de supermercados no Distrito Federal, e o
 
 ### Opção 1: Google Colab (zero instalação)
 
-1. Clique em **▶ Abrir no Colab** lá no topo.
+1. Clique em **[**▶ Abrir no Colab**](https://colab.research.google.com/github/USUARIO/REPO/blob/main/Aula-14-Visualizacao-de-Dados-Polars.ipynb)** lá no topo.
 2. Execute as células na ordem.
 3. Quando a célula de leitura pedir, selecione o `supermercado_abc_100k_variado.csv`.
 
