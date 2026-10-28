@@ -10,7 +10,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
- · [Ver os gráficos](#-galeria) · [Como rodar](#-como-rodar)
+[**▶ Abrir no Colab**](https://colab.research.google.com/github/USUARIO/REPO/blob/main/Aula-14-Visualizacao-de-Dados-Polars.ipynb) · [Ver os gráficos](#-galeria) · [Como rodar](#-como-rodar) · [Ver os gráficos](#-galeria) · [Como rodar](#-como-rodar)
 
 <sub>UniCEUB · Aula 14 · Visualização de Dados com Python</sub>
 
